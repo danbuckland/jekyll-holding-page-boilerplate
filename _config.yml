@@ -2,9 +2,10 @@
 title: Boilerplate
 tagline: Boilerplate code for hosting a static holding page on GitHub pages
 
-url: "http://okrello.xyz" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
+
+# Used for theme in head.html, cannot be used in Stylus files
 color-primary: "#263238"
-color-secondary: "#546E7A"
 
 # contact
 author:
